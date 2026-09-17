@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">DPS Gasworks Plumbing &amp; Heating</title>
+  <desc id="desc">Boilers, heating and plumbing done properly. Gas Safe registered engineer in Bedford.</desc>
+  <defs>
+    <linearGradient id="copper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#EBAE78"/>
+      <stop offset=".45" stop-color="#B8672E"/>
+      <stop offset="1" stop-color="#7E4520"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DDE3E5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="42%" r="60%">
+      <stop offset="0" stop-color="#E09A5F" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#E09A5F" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#0B1117" flood-opacity=".36"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="630" fill="#1B2631"/>
+  <circle cx="958" cy="276" r="300" fill="url(#glow)"/>
+  <path d="M0 482C206 440 362 455 520 521S841 637 1032 581 1178 480 1200 456V630H0Z" fill="#141D26"/>
+  <path d="M696 0C756 102 786 207 786 315S756 528 696 630H1200V0Z" fill="#243240" opacity=".7"/>
+
+  <g transform="translate(62 54)" filter="url(#shadow)">
+    <path d="M12 0H54A12 12 0 0 1 66 12V66H0V12A12 12 0 0 1 12 0Z" fill="#F8F9F7"/>
+    <g fill="none" stroke-linecap="butt" stroke-linejoin="round">
+      <path d="M66 18H35A21 21 0 0 0 14 39V68" stroke="#7E4520" stroke-width="9.5"/>
+      <path d="M66 18H35A21 21 0 0 0 14 39V68" stroke="#B8672E" stroke-width="6.9"/>
+      <path d="M66 18H35A21 21 0 0 0 14 39V68" stroke="#EBAE78" stroke-width="1.7"/>
+      <path d="M66 33H36A7 7 0 0 0 29 40V68" stroke="#7E4520" stroke-width="9.5"/>
+      <path d="M66 33H36A7 7 0 0 0 29 40V68" stroke="#B8672E" stroke-width="6.9"/>
+      <path d="M66 33H36A7 7 0 0 0 29 40V68" stroke="#EBAE78" stroke-width="1.7"/>
+    </g>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="150" y="83" fill="#F8F9F7" font-size="31" font-weight="700" letter-spacing="-.5">DPS Gasworks</text>
+    <text x="151" y="115" fill="#B6C0C8" font-size="19" font-weight="600" letter-spacing="2.1">PLUMBING <tspan fill="#E09A5F">&amp;</tspan> HEATING</text>
+
+    <text x="62" y="224" fill="#F8F9F7" font-size="59" font-weight="800" letter-spacing="-2.6">Boilers, heating</text>
+    <text x="62" y="294" fill="#F8F9F7" font-size="59" font-weight="800" letter-spacing="-2.6">and plumbing,</text>
+    <text x="62" y="364" fill="#F8F9F7" font-size="59" font-weight="800" letter-spacing="-2.6">done</text>
+    <text x="202" y="364" fill="#E09A5F" font-size="59" font-weight="800" letter-spacing="-2.6">properly.</text>
+
+    <g transform="translate(62 467)">
+      <rect width="494" height="2" rx="1" fill="url(#copper)"/>
+      <text y="44" fill="#DCE1E4" font-size="24" font-weight="600">Gas Safe registered engineer in Bedford</text>
+      <g transform="translate(0 75)">
+        <rect width="198" height="48" rx="7" fill="#E09A5F"/>
+        <text x="99" y="31" text-anchor="middle" fill="#1B2631" font-size="20" font-weight="800">07904 516450</text>
+        <text x="220" y="31" fill="#B6C0C8" font-size="19" font-weight="600">Open daily · 6am–10pm</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- A simple boiler and copper-pipe illustration, kept vector for a sharp share image. -->
+  <g transform="translate(824 76)" filter="url(#shadow)">
+    <rect x="0" y="0" width="286" height="342" rx="22" fill="url(#panel)"/>
+    <rect x="26" y="29" width="234" height="38" rx="7" fill="#EEF0EC"/>
+    <circle cx="48" cy="48" r="8" fill="#B8672E"/>
+    <rect x="67" y="41" width="104" height="14" rx="7" fill="#CAD2D5"/>
+    <rect x="44" y="101" width="198" height="90" rx="13" fill="#1B2631"/>
+    <rect x="70" y="121" width="92" height="50" rx="7" fill="#34434F"/>
+    <text x="116" y="155" text-anchor="middle" fill="#F8F9F7" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">68°</text>
+    <circle cx="198" cy="146" r="25" fill="#EEF0EC"/>
+    <circle cx="198" cy="146" r="17" fill="#BFC8CC"/>
+    <path d="M198 146 208 136" fill="none" stroke="#1B2631" stroke-width="3" stroke-linecap="round"/>
+    <rect x="44" y="220" width="198" height="2" fill="#CAD2D5"/>
+    <circle cx="90" cy="260" r="9" fill="#8C99A5"/>
+    <circle cx="143" cy="260" r="9" fill="#B8672E"/>
+    <circle cx="196" cy="260" r="9" fill="#8C99A5"/>
+    <text x="143" y="310" text-anchor="middle" fill="#66737D" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2">DPS</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M869 418V488Q869 518 899 518H917V630" stroke="#7E4520" stroke-width="15"/>
+    <path d="M869 418V488Q869 518 899 518H917V630" stroke="#B8672E" stroke-width="10"/>
+    <path d="M869 418V488Q869 518 899 518H917V630" stroke="#EBAE78" stroke-width="2.4"/>
+    <path d="M967 418V630" stroke="#7E4520" stroke-width="15"/>
+    <path d="M967 418V630" stroke="#B8672E" stroke-width="10"/>
+    <path d="M967 418V630" stroke="#EBAE78" stroke-width="2.4"/>
+    <path d="M1065 418V486Q1065 513 1038 513H1021V630" stroke="#7E4520" stroke-width="15"/>
+    <path d="M1065 418V486Q1065 513 1038 513H1021V630" stroke="#B8672E" stroke-width="10"/>
+    <path d="M1065 418V486Q1065 513 1038 513H1021V630" stroke="#EBAE78" stroke-width="2.4"/>
+  </g>
+
+  <g transform="translate(907 504)" filter="url(#shadow)">
+    <circle cx="60" cy="60" r="53" fill="#F8F9F7" stroke="#B8672E" stroke-width="8"/>
+    <circle cx="60" cy="60" r="40" fill="#EEF0EC" stroke="#CAD2D5" stroke-width="2"/>
+    <path d="M60 60 77 38" stroke="#B8672E" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="60" cy="60" r="7" fill="#1B2631"/>
+    <path d="M31 68h8M36 44l7 4M55 31l1 8M78 35l-4 7M89 53l-8 2" stroke="#66737D" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
